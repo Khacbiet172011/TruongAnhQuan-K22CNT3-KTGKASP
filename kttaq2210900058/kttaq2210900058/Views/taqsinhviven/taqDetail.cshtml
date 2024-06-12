@@ -1,0 +1,59 @@
+﻿@model baiktragiuaki.Models.SinhVien
+
+@{
+    ViewBag.Title = "bstDetails";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SinhVien</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HOSV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HOSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TENSV)
+        </dt>A
+
+        <dd>
+            @Html.DisplayFor(model => model.TENSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PHAI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PHAI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NS)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NS)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Khoa.TENKHOA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Khoa.TENKHOA)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "bstEdit", new { id = Model.MASV }) |
+    @Html.ActionLink("Back to List", "bstIndex")
+</p>
+}

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\views\\shared\\bst_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\views\\shared\\bst_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\views\\bstsinhviven\\bstedit.cshhtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\views\\bstsinhviven\\bstedit.cshhtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\views\\bstsinhviven\\bstdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\views\\bstsinhviven\\bstdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\views\\bstsinhviven\\bstsccreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\views\\bstsinhviven\\bstsccreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\controllers\\bstsinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\controllers\\bstsinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|c:\\users\\dell inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2ACCA252-3A6C-4F65-8D47-3A552E2A5DA8}|ktbst2210900075\\ktbst2210900075.csproj|solutionrelative:ktbst2210900075\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bst_layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\Shared\\bst_layout.cshtml",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Views\\Shared\\bst_layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\Shared\\bst_layout.cshtml",
+              "RelativeToolTip": "ktbst2210900075\\Views\\Shared\\bst_layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T04:08:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bstEdit.cshhtml",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\bstsinhviven\\bstEdit.cshhtml",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Views\\bstsinhviven\\bstEdit.cshhtml",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\bstsinhviven\\bstEdit.cshhtml",
+              "RelativeToolTip": "ktbst2210900075\\Views\\bstsinhviven\\bstEdit.cshhtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T04:06:38.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bstDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\bstsinhviven\\bstDetail.cshtml",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Views\\bstsinhviven\\bstDetail.cshtml",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\bstsinhviven\\bstDetail.cshtml",
+              "RelativeToolTip": "ktbst2210900075\\Views\\bstsinhviven\\bstDetail.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T04:05:53.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bstsCcreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\bstsinhviven\\bstsCcreate.cshtml",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Views\\bstsinhviven\\bstsCcreate.cshtml",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\bstsinhviven\\bstsCcreate.cshtml",
+              "RelativeToolTip": "ktbst2210900075\\Views\\bstsinhviven\\bstsCcreate.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T04:03:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ktbst2210900075\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T04:02:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bstsinhviencontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Controllers\\bstsinhviencontroller.cs",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Controllers\\bstsinhviencontroller.cs",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Controllers\\bstsinhviencontroller.cs",
+              "RelativeToolTip": "ktbst2210900075\\Controllers\\bstsinhviencontroller.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:00:16.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ktbst2210900075\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:59:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "ktbst2210900075\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Dell Inc\\source\\repos\\ktbst2210900075\\ktbst2210900075\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ktbst2210900075\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-12T03:55:58.376Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
